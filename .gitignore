@@ -1,0 +1,13 @@
+.env
+.env.testing
+.env.development
+.env.production
+.env.staging
+
+.ipynb_checkpoints
+
+.idea
+
+.vscode
+
+.DS_Store
